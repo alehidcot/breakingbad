@@ -1,0 +1,28 @@
+{
+  "home": {
+    "title": "Todos los personajes",
+    "errors": {
+      "getAllCharacters": "Ha ocurrido un error obteniendo el listado de personajes"
+    }
+  },
+  "character": {
+    "detail": {
+      "nickname": "Apodo",
+      "birthday": "Fecha de nacimiento",
+      "portrayed": "Actor",
+      "occupation": "Ocupación",
+      "appearance": "Aparición",
+      "betterCallSaulAppearance": "Better call Saul aparición",
+      "status": "Estado",
+      "quote": "Cita"
+    },
+    "buttons": {
+      "anotherQuote": "Otra cita",
+      "backtoHome": "Volver a la lista"
+    },
+    "errors": {
+      "getCharacterById": "Ha ocurrido un error obteniendo el personaje",
+      "getQuoteByAuthor": "Ha ocurrido un error obteniendo una frase del personaje"
+    }
+  }
+}

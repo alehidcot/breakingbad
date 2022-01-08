@@ -1,0 +1,26 @@
+.header-container {
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em;
+  margin-bottom: 2em;
+  background-color: #977432;
+  color: white;
+}
+
+.img-title {
+  max-height: 4em;
+}
+
+.header-data {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.username {
+  padding-left: 25px;
+}

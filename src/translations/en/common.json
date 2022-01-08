@@ -1,0 +1,28 @@
+{
+  "home": {
+    "title": "All characters",
+    "errors": {
+      "getAllCharacters": "An error occurred while obtaining the list of actors"
+    }
+  },
+  "character": {
+    "detail": {
+      "nickname": "Nickname",
+      "birthday": "Birthday",
+      "portrayed": "Portrayed",
+      "occupation": "Occupation",
+      "appearance": "Appearance",
+      "betterCallSaulAppearance": "Better call Saul appearance",
+      "status": "Status",
+      "quote": "Quote"
+    },
+    "buttons": {
+      "anotherQuote": "Another quote",
+      "backtoHome": "Back to the list"
+    },
+    "errors": {
+      "getCharacterById": "An error occurred while obtaining the character attributes",
+      "getQuoteByAuthor": "An error occurred while obtaining a character quote"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+.card {
+  min-width: 50%;
+}
+
+.card-content {
+  overflow: hidden;
+}
+
+.card-content:hover {
+  overflow: auto;
+}

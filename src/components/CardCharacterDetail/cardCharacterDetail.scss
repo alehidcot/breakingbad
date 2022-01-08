@@ -1,0 +1,46 @@
+.card {
+  min-width: 50%;
+}
+
+.card-content {
+  overflow: hidden;
+}
+
+.card-content:hover {
+  overflow: auto;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.card-image-container {
+  width: 48%;
+  margin-right: 2%;
+}
+
+.image-style {
+  max-width: 100%;
+}
+
+.card-info {
+  width: 48%;
+  margin-left: 2%;
+  word-wrap: break-word;
+  display: flex;
+  flex-direction: column;
+}
+
+.quote-container {
+  width: 50%;
+}
+
+.buttons-container {
+  padding-top: 10px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
